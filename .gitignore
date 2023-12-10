@@ -1,3 +1,8 @@
+# Ignore specific files
+require.txt
+settings.json
+# Ignore entire directories
+#
 # Logs
 logs
 *.log
